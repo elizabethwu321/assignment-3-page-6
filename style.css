@@ -29,6 +29,10 @@ p {
 	text-align: right;
 }
 
+a {
+	color: darkblue;
+}
+
 .red {
 	width: 400px;
 	background-color: transparent;
